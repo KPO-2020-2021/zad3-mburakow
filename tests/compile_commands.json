@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/mburakowski/pobiektowe/zad3-mburakow/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mburakowski/pobiektowe/zad3-mburakow/tests -I/home/mburakowski/pobiektowe/zad3-mburakow/include -I/home/mburakowski/pobiektowe/zad3-mburakow/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/example.cpp.o -c /home/mburakowski/pobiektowe/zad3-mburakow/src/example.cpp",
+  "file": "/home/mburakowski/pobiektowe/zad3-mburakow/src/example.cpp"
+},
+{
+  "directory": "/home/mburakowski/pobiektowe/zad3-mburakow/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mburakowski/pobiektowe/zad3-mburakow/tests -I/home/mburakowski/pobiektowe/zad3-mburakow/include -I/home/mburakowski/pobiektowe/zad3-mburakow/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/engine.dir/src/lacze_do_gnuplota.cpp.o -c /home/mburakowski/pobiektowe/zad3-mburakow/src/lacze_do_gnuplota.cpp",
+  "file": "/home/mburakowski/pobiektowe/zad3-mburakow/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/mburakowski/pobiektowe/zad3-mburakow/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mburakowski/pobiektowe/zad3-mburakow/tests -I/home/mburakowski/pobiektowe/zad3-mburakow/include -I/home/mburakowski/pobiektowe/zad3-mburakow/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/mburakowski/pobiektowe/zad3-mburakow/app/main.cpp",
+  "file": "/home/mburakowski/pobiektowe/zad3-mburakow/app/main.cpp"
+},
+{
+  "directory": "/home/mburakowski/pobiektowe/zad3-mburakow/tests/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mburakowski/pobiektowe/zad3-mburakow/tests -I/home/mburakowski/pobiektowe/zad3-mburakow/include -I/home/mburakowski/pobiektowe/zad3-mburakow/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/mburakowski/pobiektowe/zad3-mburakow/tests/main.cpp",
+  "file": "/home/mburakowski/pobiektowe/zad3-mburakow/tests/main.cpp"
+},
+{
+  "directory": "/home/mburakowski/pobiektowe/zad3-mburakow/tests/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mburakowski/pobiektowe/zad3-mburakow/tests -I/home/mburakowski/pobiektowe/zad3-mburakow/include -I/home/mburakowski/pobiektowe/zad3-mburakow/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c /home/mburakowski/pobiektowe/zad3-mburakow/tests/dummy.cpp",
+  "file": "/home/mburakowski/pobiektowe/zad3-mburakow/tests/dummy.cpp"
+}
+]

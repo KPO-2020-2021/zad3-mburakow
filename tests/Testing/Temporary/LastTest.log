@@ -1,0 +1,24 @@
+Start testing: May 13 22:57 CEST
+----------------------------------------------------------
+1/1 Testing: engine.unit_tests
+1/1 Test: engine.unit_tests
+Command: "/home/mburakowski/pobiektowe/zad3-mburakow/tests/unit_tests"
+Directory: /home/mburakowski/pobiektowe/zad3-mburakow/tests/tests
+"engine.unit_tests" start time: May 13 22:57 CEST
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.5"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 3 | 3 passed | 0 failed | 0 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"engine.unit_tests" end time: May 13 22:57 CEST
+"engine.unit_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 22:57 CEST
